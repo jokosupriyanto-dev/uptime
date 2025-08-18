@@ -4,17 +4,19 @@
     "url": "https://health.hx0.dev",
     "icon": "https://icons.duckduckgo.com/ip3/health.hx0.dev.ico",
     "slug": "health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 791,
-    "timeWeek": 791,
-    "timeMonth": 791,
-    "timeYear": 791,
-    "dailyMinutesDown": {}
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
+    "dailyMinutesDown": {
+      "2025-08-18": 0
+    }
   }
 ]
