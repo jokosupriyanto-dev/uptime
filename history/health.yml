@@ -1,7 +1,7 @@
 url: https://health.hx0.dev
-status: up
-code: 200
-responseTime: 802
-lastUpdated: 2026-05-04T23:50:47.464Z
+status: down
+code: 502
+responseTime: 1025
+lastUpdated: 2026-05-05T16:57:32.336Z
 startTime: 2025-08-17T10:28:13.371Z
 generator: Upptime <https://github.com/upptime/upptime>
