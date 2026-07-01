@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.hx0.dev.ico",
     "slug": "health",
     "status": "up",
-    "uptime": "86.97%",
-    "uptimeDay": "78.95%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "68.91%",
-    "uptimeYear": "86.97%",
+    "uptime": "86.98%",
+    "uptimeDay": "79.96%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "69.29%",
+    "uptimeYear": "86.98%",
     "time": 687,
     "timeDay": 415,
     "timeWeek": 620,
@@ -123,8 +123,7 @@
       "2026-06-22": 326,
       "2026-06-21": 1440,
       "2026-06-27": 276,
-      "2026-06-30": 289,
-      "2026-07-01": 15
+      "2026-06-30": 289
     }
   }
 ]
