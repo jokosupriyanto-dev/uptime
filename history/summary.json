@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.hx0.dev.ico",
     "slug": "health",
     "status": "down",
-    "uptime": "86.39%",
-    "uptimeDay": "20.82%",
-    "uptimeWeek": "61.84%",
-    "uptimeMonth": "64.93%",
-    "uptimeYear": "86.39%",
-    "time": 679,
-    "timeDay": 361,
-    "timeWeek": 410,
-    "timeMonth": 454,
-    "timeYear": 679,
+    "uptime": "86.12%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "50.14%",
+    "uptimeMonth": "61.61%",
+    "uptimeYear": "86.12%",
+    "time": 677,
+    "timeDay": 26,
+    "timeWeek": 359,
+    "timeMonth": 445,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-08-18": 94,
       "2025-08-21": 473,
@@ -127,7 +127,8 @@
       "2026-07-02": 1279,
       "2026-07-01": 730,
       "2026-07-03": 1141,
-      "2026-07-04": 132
+      "2026-07-05": 148,
+      "2026-07-04": 1440
     }
   }
 ]
